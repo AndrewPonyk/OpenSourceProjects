@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled 
+b3a02001ce4223e85d32cd9d47c23adcdd97e2fa refs/remotes/origin/master
+0d0bfa78f748bd520cd64cd2e07270ecb5e2e835 refs/remotes/origin/new-problems
+1e2db0b6944e6a0a852b113d48a41fb41e899cee refs/remotes/origin/reformat-files
+ec6dfb50234411e4339f56e14dfcea274b888905 refs/remotes/origin/rename
+c490b72467f5071cb25f5545dfdc8db9215cff7e refs/remotes/origin/rename-directories-and-files
